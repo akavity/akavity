@@ -8,7 +8,7 @@ Languages and Tools:
     <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
     <img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png"/>
     <img width="6%" src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" />
-    <img width="7%" src="https://aerokube.com/img/aerokube_logo.svg" alt="logo" />
+    <img width="6%" src="https://aerokube.com/img/aerokube_logo.svg" alt="logo" />
     <img width="8%" src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" alt="docker"/>
     <img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />
     <img width="7%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" />
