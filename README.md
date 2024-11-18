@@ -15,6 +15,7 @@ Languages and Tools:
     <img width="13%" src="https://automated-testing.info/uploads/default/original/2X/4/49950f4112bb39e094016e7d7be7c84aec415f24.png" alt="testng" />
     <img width="7%" src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4" alt="allure" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" />
+    <img width="24%" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d98fb8bd-2f42-4713-a87d-d42a0ab61f38.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
     <img width="7%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" />
     <img width="7%" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
